@@ -18,3 +18,6 @@
 
 🧠 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnibora&layout=compact&theme=tokyonight)
+
+![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-informational?style=flat&logo=linux)
+![Python](https://img.shields.io/badge/Python-🧠%20Hack%20Scripts-blue)
